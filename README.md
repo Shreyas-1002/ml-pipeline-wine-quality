@@ -75,12 +75,13 @@ Such pipelines are directly applicable to astroinformatics tasks such as:
 ---
 
 ## 📂 Repository Structure
+```
 ml-pipeline-wine-quality/
 │
 ├── wine_quality.ipynb
 ├── winequality.csv
 └── README.md
-
+```
 ---
 
 ## 📜 License
